@@ -4,9 +4,9 @@ title = "Nix Theme"
 theme = "hugo-theme-nix"
 
 [params]
-  GithubID = "your_github"
+  GithubID = "mrseelig"
   TwitterID = "your_twitter"
-  LinkedInID = "your_linkedin"
+  LinkedInID = "www.linkedin.com/mrseelig"
   GoogleplusID = "your_googleplus"
   FacebookID = "your_facebook"
   Name = "your_name"
@@ -14,8 +14,7 @@ theme = "hugo-theme-nix"
   HeaderHostname = "hostname"
   Email = "your_email"
   About = "info_about_you"
-  ProfilePicture = "https://pbs.twimg.com/profile_images/485564678039302144/Fjxv6IbQ.png"
-  GoogleAnalytics = "your_google_analytics_id"
+  ProfilePicture = "https://image.ibb.co/gKtdJ5/gray_cog_the_rest_white.png"
 
 [menu]
   [[menu.header]]
